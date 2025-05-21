@@ -44,13 +44,7 @@ cd backend
 2. Create a `.env` file in the backend root folder with the following environment variables:
 
 ```
-DB_HOST=localhost
-DB_USER=your_postgres_username
-DB_PASS=your_postgres_password
-DB_NAME=user_access_mgmt
-
-PORT=5000
-
+ 
 
 PORT=3001
 
